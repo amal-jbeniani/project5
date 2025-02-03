@@ -1,11 +1,11 @@
 .card-spec{
     background-color: rgb(236, 235, 235);
     border-radius: 10px;
-    padding: 2%;
+    padding: 5%;
 }.card-spec:hover{
     background-color: white;
     border-radius: 10px;
-    padding: 2%;
+    padding: 5%;
     box-shadow: 0px 0px 30px rgba(0, 0 , 0.265);
     color: orange;
 }
@@ -19,8 +19,66 @@ border: black 3px solid;
 text-align: center;
 padding-top: 5%;
 }
-.arrow-pos{
-padding-left: 70%;
-margin-top: 20%;
-}
+.errow-pos{
+ padding-left:90%;
+ margin-top:20%;
+ }
 
+.hello{
+    color: orange;
+   
+}
+.contact{
+    color: white;
+    margin-bottom: 80%;
+}
+.hey{
+    color: orange;
+}
+.download:hover{
+        background-color: white;
+        color: black;
+    }
+    .card-resume{
+        background: rgb(236, 235, 235);
+        border-radius: 20px;
+        padding: 8%;
+     }.card-resume:hover {
+        background-color: white;
+        border-radius: 30px;
+        padding: 10%;
+        box-shadow: 0px 0px 30px rgba(0, 0 , 0.265);
+    }
+    .button:hover{
+background-color: black;
+    }
+    
+
+.project{
+    background-color: peachpuff;
+}
+.text{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input ,select , textarea{
+    margin-top: 2%;
+    background-color: rgb(236, 235, 235) !important;
+    border: gray 2px solid !important ;
+}
+#but{
+    margin-top: 2%;
+    width: 30%;
+    background-color: black;
+    margin-left: 35%;
+}
+#but:hover{
+    margin-top: 2%;
+    width: 30%;
+    background-color:rgb(236, 235, 235) ;
+    margin-left: 35%;
+    border: 2px gray solid;
+    color: black;
+}
